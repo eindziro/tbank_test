@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../1/1.csproj" Id="afef854d-459d-49a0-83c8-91239ff0b84d" />
+  <Project Path="../2/2.csproj" Id="b4ece8e2-f3bc-4a9f-b19e-685abb121e21" />
+  <Project Path="../3/3.csproj" Id="ff1909c7-b8b1-4648-9390-3c48e72ba779" />
+  <Project Path="../4/4.csproj" Id="4f5cf2d8-05f8-439b-988e-caf089f126f9" />
+  <Project Path="../5/5.csproj" Id="45726b00-e879-42d2-b0b1-03f582af5132" />
+  <Project Path="../7/7.csproj" Id="b3616347-ef37-47ae-a252-eb2616f79100" />
+  <Project Path="6.csproj" />
+</Solution>
